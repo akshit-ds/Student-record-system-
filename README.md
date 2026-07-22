@@ -19,11 +19,7 @@ Users can add new student records, update existing details, search for a student
 ## Technologies Used
 
 - Python 3
-- Dictionaries
-- Functions
-- Loops
-- Conditional Statements
-
+- 
 ## Learning Outcomes
 
 - Working with dictionaries
